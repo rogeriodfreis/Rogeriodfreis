@@ -1,5 +1,11 @@
-header 
+header
 {
-    background-color: #8390e2;
-    color: yellow;
+background-color: #8390e2;
+color: yellow;
+}
+
+body
+{
+background-color: #290404;
+color: rgb(26, 7, 70);
 }
