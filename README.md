@@ -7,7 +7,7 @@ Sou professor da rede publica do estado do Paraná
 
 Estou ministrando aulas de programação para o ensino Médio
 
-Aqui serve para mostrar todas as aplicações do GitHub
+Aqui serve para mostrar as aplicações nestas auals.
 
 Este curso faz parte da plataforma [Alura](https://www.alura.com.br)
 
